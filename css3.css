@@ -1,0 +1,15 @@
+.script{
+    border: 5px solid rgb(101, 198, 228);
+    background-color: rgb(233, 168, 219);
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+  
+    position: relative;
+    left: 425px;
+    padding: 20px;
+}
+.body{
+    background-image: url(https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00MjItMDczLWt6cGhnMjR1LmpwZw.jpg);
+}
